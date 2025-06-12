@@ -14,6 +14,6 @@ function selection(arr){
         }
     }
     return arr
-}
+} 
 
 console.log(selection([1,5,7,2,4,2,9,0,12,31,6]))

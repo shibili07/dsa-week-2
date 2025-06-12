@@ -17,3 +17,7 @@ console.log(bubble([9,3,5,1,7,4,8,10]));
 //ITHINTE WORKING =  swap cheyth cheyth athile largest element nte last lek move cheyyum atlast aa element ne consider cheyyyilla itartion ,
 // j loop lengthil ninnn kuranj varum
 
+
+
+//bubble
+
